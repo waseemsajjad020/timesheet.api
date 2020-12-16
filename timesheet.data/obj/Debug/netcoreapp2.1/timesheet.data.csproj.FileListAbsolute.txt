@@ -1,0 +1,15 @@
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\bin\Debug\netcoreapp2.1\timesheet.data.deps.json
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\bin\Debug\netcoreapp2.1\timesheet.data.runtimeconfig.json
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\bin\Debug\netcoreapp2.1\timesheet.data.runtimeconfig.dev.json
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\bin\Debug\netcoreapp2.1\timesheet.data.dll
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\bin\Debug\netcoreapp2.1\timesheet.data.pdb
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\bin\Debug\netcoreapp2.1\timesheet.model.dll
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\bin\Debug\netcoreapp2.1\timesheet.model.pdb
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\obj\Debug\netcoreapp2.1\timesheet.data.csprojAssemblyReference.cache
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\obj\Debug\netcoreapp2.1\timesheet.data.AssemblyInfoInputs.cache
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\obj\Debug\netcoreapp2.1\timesheet.data.AssemblyInfo.cs
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\obj\Debug\netcoreapp2.1\timesheet.data.csproj.CoreCompileInputs.cache
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\obj\Debug\netcoreapp2.1\timesheet.data.csproj.CopyComplete
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\obj\Debug\netcoreapp2.1\timesheet.data.dll
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\obj\Debug\netcoreapp2.1\timesheet.data.pdb
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.data\obj\Debug\netcoreapp2.1\timesheet.data.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.model\bin\Debug\netcoreapp2.1\timesheet.model.deps.json
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.model\bin\Debug\netcoreapp2.1\timesheet.model.dll
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.model\bin\Debug\netcoreapp2.1\timesheet.model.pdb
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.model\obj\Debug\netcoreapp2.1\timesheet.model.AssemblyInfoInputs.cache
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.model\obj\Debug\netcoreapp2.1\timesheet.model.AssemblyInfo.cs
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.model\obj\Debug\netcoreapp2.1\timesheet.model.csproj.CoreCompileInputs.cache
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.model\obj\Debug\netcoreapp2.1\timesheet.model.dll
+C:\Users\wasee\Downloads\timesheet.api-master\timesheet.api-master\timesheet.model\obj\Debug\netcoreapp2.1\timesheet.model.pdb
